@@ -1,2 +1,0 @@
-# javaEx
-exercises of java
